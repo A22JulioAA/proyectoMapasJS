@@ -3,3 +3,23 @@
   height: 500px;
   width: 100%;
 }
+
+.buttonDescripcion {
+  background-color: white;
+
+  border: 1px solid gray;
+}
+
+#listaPuntos {
+  list-style-type: none;
+  padding: 0;
+}
+
+.elemento-lista-class {
+  border: 1px solid gray;
+  border-radius: 2em;
+
+  padding: 0.3em;
+
+  text-align: center;
+}
